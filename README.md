@@ -8,7 +8,19 @@
 - 👯 I’m looking to collaborate on ... well, EVERYTHING
 - ⚡ Fun fact: ... there is nothing fun to know about me
 
-### Later 👋
+#### Repositories:
+```
+diffraction-lab-report
+first-year-data-analysis
+classics-cheat-sheets
+
+COMING SOON:
+[font-repository]
+[notes-repository]
+[self-written-textbook-repository]
+[other shitty code-repository]
+```
+
 <!--
 **martin-he543/martin-he543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,14 @@
-### Hi there 👋
+### Introduction 👋
+- 👋 Howdy there, folks. It's Martin here
+- 🌱 I’m currently learning ... Japanese, French, Physics, Music Production and Python
+- 💬 Ask me about ... the London Underground, old maps, typography, hiking and mountain biking, Dutch crêpes, Dutch crêpes, god I love the Dutch
+- 📫 How to reach me: ... carrier pigeon, morse code, skywriting, WhatsApp, very occasionally Instagram, incredibly rarely, email. SMS oddly enough
+- 😄 Pronouns: ... he, she, it, we, they, what, how, whence, thou, hitherto, 贺，call me whatever it doesn't have to be a big deal
+- 🔭 I’m currently working on ... long-distance running, becoming less blind, French-style cooking
+- 👯 I’m looking to collaborate on ... well, EVERYTHING
+- ⚡ Fun fact: ... there is nothing fun to know about me
 
+### Later 👋
 <!--
 **martin-he543/martin-he543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,7 @@
 ### Introduction 👋
 - 👋 Howdy there, folks. It's Martin here
 - 🌱 I’m currently learning ... Japanese, French, Physics, Music Production and Python
-- 💬 Ask me about ... the London Underground, old maps, typography, hiking and mountain biking, Dutch crêpes, Dutch architecture, Dutch crêpes, the Dutch language, Dutch crêpes, god I love the Dutch
+- 💬 Ask me about ... the London Underground, old maps, typography, hiking and mountain biking, Dutch crêpes...
 - 📫 How to reach me: ... carrier pigeon, morse code, skywriting, WhatsApp, very occasionally Instagram, rarely, email
 - 😄 Pronouns: ... he, she, it, we, they, what, how, whence, thou, hitherto, 贺，call me whatever IDGAF
 - 🔭 I’m currently working on ... long-distance running, becoming less blind, French-style cooking

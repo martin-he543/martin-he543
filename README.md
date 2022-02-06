@@ -17,6 +17,7 @@ classics-cheat-sheets
 COMING SOON:
 [font-repository]
 [notes-repository]
+[sheet-music-repository]
 [self-written-textbook-repository]
 [other shitty code-repository]
 ```

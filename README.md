@@ -10,7 +10,8 @@
 
 #### Repositories:
 ```
-[[ summer-project-data-analysis]] - Confocal Laser Microscopy (on a budget)
+[[ summer-project-data-analysis]] - Automated Confocal Laser Scanning Microscopy (on a budget)
+[[ first-year-physics-notes]] - Imperial College, London, First Year Physics Course Content
 diffraction-lab-report
 first-year-data-analysis
 classics-cheat-sheets

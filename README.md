@@ -31,4 +31,4 @@ I am a second-year **Business Analytics and Finance** student at **Bayes Busines
 
 ### 📫 Let's Connect!
 * **Location:** Surbiton, Greater London, UK
-* **E-mail:** Please contact me on socials for further information.
+* **E-mail:** Please contact me on socials for further information. Find my [link-tree here](https://martinhe.co.uk/info).

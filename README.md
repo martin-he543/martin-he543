@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<p align="center">
+    <a href="https://github.com/martin-he543/martin-he543"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+    <a href="https://github.com/martin-he543/martin-he543/graphs/contributors"><img src="https://img.shields.io/github/contributors/martin-he543/martin-he543?color=blue"></a>
+    <a href="https://github.com/martin-he543/martin-he543/stargazers"><img src="https://img.shields.io/github/stars/martin-he543/martin-he543.svg?logo=github"></a>
+    <a href="https://github.com/martin-he543/martin-he543/network/members"><img src="https://img.shields.io/github/forks/martin-he543/martin-he543.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=martin-he543.martin-he543" alt="visitors"/>    
+</p>
+
 **Business Analytics Student | Physics Enthusiast | ML Enthusiast**
 
 I am a second-year **Business Analytics and Finance** student at **Bayes Business School**, bridging the gap between the mathematical rigour of a **Theoretical Physics** foundation from **Imperial College London** and advanced predictive modelling.

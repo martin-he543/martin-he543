@@ -17,6 +17,8 @@
 
 I am a second-year **Business Analytics and Finance** student at **Bayes Business School**, bridging the gap between the mathematical rigour of a **Theoretical Physics** foundation from **Imperial College London** and advanced predictive modelling.
 
+<a href="https://hitscounter.dev/history?url=https://martinhe.co.uk"><img alt="Hits" src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fmartinhe.co.uk&label=Hits&icon=github&color=%23198754&tz=Europe%2FLondon"></a>
+
 ---
 
 ### 🚀 A Supercut: What I’ve Worked On

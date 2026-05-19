@@ -4,8 +4,11 @@
     <a href="https://github.com/martin-he543/martin-he543"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
     <a href="https://github.com/martin-he543/martin-he543/graphs/contributors"><img src="https://img.shields.io/github/contributors/martin-he543/martin-he543?color=blue"></a>
-    <a href="https://github.com/martin-he543/martin-he543/stargazers"><img src="https://img.shields.io/github/stars/martin-he543/martin-he543.svg?logo=github"></a>
-    <a href="https://github.com/martin-he543/martin-he543/network/members"><img src="https://img.shields.io/github/forks/martin-he543/martin-he543.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/martin-he543?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/martin-he543"></a>
+    <a href="https://youtube.com/@martinhe543"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/@martinhe543"></a>
+    <a href="https://github.com/martin-he543?tab=repositories&q=&type=&language=&sort=stargazers"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/martin-he543"></a>
+    <!-- <a href="https://github.com/martin-he543/martin-he543/stargazers"><img src="https://img.shields.io/github/stars/martin-he543/martin-he543.svg?logo=github"></a> -->
+    <!-- <a href="https://github.com/martin-he543/martin-he543/network/members"><img src="https://img.shields.io/github/forks/martin-he543/martin-he543.svg?color=blue&logo=github"></a> -->
     <img src="https://visitor-badge.laobi.icu/badge?page_id=martin-he543.martin-he543" alt="visitors"/>    
 </p>
 (Added and updated May 19, 2026).

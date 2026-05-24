@@ -11,7 +11,7 @@
     <!-- <a href="https://github.com/martin-he543/martin-he543/network/members"><img src="https://img.shields.io/github/forks/martin-he543/martin-he543.svg?color=blue&logo=github"></a> -->
     <img src="https://visitor-badge.laobi.icu/badge?page_id=martin-he543.martin-he543" alt="visitors"/>    
 </p>
-(Added and updated May 19, 2026).
+(Added and updated May 24, 2026. View counter added May 17, 2026).
 
 **Business Analytics Student | Physics Enthusiast | ML Enthusiast**
 

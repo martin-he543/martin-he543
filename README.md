@@ -23,9 +23,9 @@ I am a second-year **Business Analytics and Finance** student at **Bayes Busines
 
 ### 🚀 A [Supercut](https://www.youtube.com/watch?v=YEAW8XWQX3o)
 * **NLP & Semantic Search:** Integrated vector-based multimodal search engine using **BERT**, **FastAPI**, and **Docker** during my **Perforce Software** internship.
-* **Multi-modal AI:** Building a recommendation system for **Spotify** using **PyTorch** to process audio previews, lyrics, and album art via CNNs and Transformers. We are currently planning on commercialising this and indexing as much of the entire Spotify song database as possible (will be at [this website](spotify.martinhe.co.uk)).
+* **Multi-modal AI:** Building a recommendation system for **Spotify** using **PyTorch** to process audio previews, lyrics, and album art via CNNs and Transformers. We are currently planning on commercialising this and indexing as much of the entire Spotify song database as possible (will be at [this website](https://spotify.martinhe.co.uk)).
 * **FinTech & Trading:** Explored arbitrage, market-making, and market movement prediction during the **Optiver** "Ready, Trader, Go" competition; predicted turnover rates, default risk, conducted market-basket analysis, sector-specific business conditions indices, customer segmentation on bank data; algorithmic portfolio management on six stocks during period of high volatility (2026 Iran-US War), earning over 1% return; won two competitions (with cash prizes) on fallout from Trump's 2025 tariffs, and predicting UK student engagement with FinTech and crypto products (e.g. remittances).
-* **Social Impact:** Created and showcased **Altruist**, the "Bloomberg Terminal for Charities," winning the **Innovate Hackathon** with a responsive React/Firebase architecture. Produced free, open-source GCSE textbook that was distributed in a top-10 ranked UK grammar school (resulting in record GCSE results); as well as resources for learning Classics. Currently working on the [Textbook Project](martinhe.co.uk/textbook-project).
+* **Social Impact:** Created and showcased **Altruist**, the "Bloomberg Terminal for Charities," winning the **Innovate Hackathon** with a responsive React/Firebase architecture. Produced free, open-source GCSE textbook that was distributed in a top-10 ranked UK grammar school (resulting in record GCSE results); as well as resources for learning Classics. Currently working on the [Textbook Project](https://martinhe.co.uk/textbook-project).
 
 ### 🛠 Tech Stack
 * **Languages:** Python (PyTorch, TensorFlow, Scikit-Learn, Pandas), R, SQL (PostgreSQL, MongoDB), JavaScript (React, TypeScript), Rust.
@@ -38,7 +38,7 @@ I am a second-year **Business Analytics and Finance** student at **Bayes Busines
 * **Creator of Royana Font**, which has reached **10,000+ downloads** and is used globally in commercial packaging and books.
 
 ### 🍱 Beyond the Code
-* 🎹 **Musician:** I enjoy playing the piano, as well as [composing](martinhe.co.uk/music), transcribing, and organising events. I am perfect (absolute) pitch, and am quite good at improv.
+* 🎹 **Musician:** I enjoy playing the piano, as well as [composing](https://martinhe.co.uk/music), transcribing, and organising events. I am perfect (absolute) pitch, and am quite good at improv.
 * 🚴 **Not Just Academics:** I'm into long-distance cycling, running, and hitting the gym. Also basketball
 * 🌍 **Polyglot:** I’m a native English speaker, advanced in French (C1) and Chinese (HSK 5), and currently learning Japanese (N3), Italian (B1), Spanish (A2), Norwegian (A1), Dutch (A1), Latin (> GCSE), and Ancient Greek (> GCSE). My current focus, however, is on Italian, and Japanese, with the target of attaining fluency in Italian by the end of 2026 (and Japanese by 2028). I plan on starting Slovak soon.
 

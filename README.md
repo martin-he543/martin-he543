@@ -21,7 +21,9 @@ I am a second-year **Business Analytics and Finance** student at **Bayes Busines
 
 ---
 
-### 🚀 A [Supercut](https://www.youtube.com/watch?v=YEAW8XWQX3o)
+
+
+### 🚀 A [Supercut](https://www.youtube.com/watch?v=xguIYNjYU1A)
 * **NLP & Semantic Search:** Integrated vector-based multimodal search engine using **BERT**, **FastAPI**, and **Docker** during my **Perforce Software** internship.
 * **Multi-modal AI:** Building a recommendation system for **Spotify** using **PyTorch** to process audio previews, lyrics, and album art via CNNs and Transformers. We are currently planning on commercialising this and indexing as much of the entire Spotify song database as possible (will be at [this website](https://spotify.martinhe.co.uk)).
 * **FinTech & Trading:** Explored arbitrage, market-making, and market movement prediction during the **Optiver** "Ready, Trader, Go" competition; predicted turnover rates, default risk, conducted market-basket analysis, sector-specific business conditions indices, customer segmentation on bank data; algorithmic portfolio management on six stocks during period of high volatility (2026 Iran-US War), earning over 1% return; won two competitions (with cash prizes) on fallout from Trump's 2025 tariffs, and predicting UK student engagement with FinTech and crypto products (e.g. remittances).

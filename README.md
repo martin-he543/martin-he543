@@ -31,7 +31,7 @@ I am a second-year **Business Analytics and Finance** student at **Bayes Busines
 * **Personal Projects:** Sisyphus, a habit tracker, part of the broader Lyceum Vitae initiative.
 
 ### 🛠 Tech Stack
-* **Languages:** Python (PyTorch, TensorFlow, Scikit-Learn, Pandas), R, SQL (PostgreSQL, MongoDB), JavaScript (React, TypeScript), Rust.
+* **Languages:** Python (PyTorch, TensorFlow, Scikit-Learn, Pandas), R, SQL (PostgreSQL, MongoDB), JavaScript (React, TypeScript), Rust. Kotlin, Swift, and Java are in the pipelines.
 * I am currently planning on learning (or improving): C++, Go, Julia, Lean, C#, Kotlin, Swift, Scala, MongoDB.
 * **Tools:** Docker, Git, Power BI, Tableau, $\LaTeX$, EViews, FastAPI, VSCode, GitHub, Jekyll.
 

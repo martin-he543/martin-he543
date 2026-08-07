@@ -15,7 +15,7 @@
 
 **Business Analytics Student | Physics Enthusiast | ML Enthusiast**
 
-I am a second-year **Business Analytics and Finance** student at **Bayes Business School**, bridging the gap between the mathematical rigour of a **Theoretical Physics** foundation from **Imperial College London** and advanced predictive modelling.
+I work full-time (over the Summer, 3 days a week otherwise) at [Memrise](https://memrise.com) as a Full-Stack Developer, Linguist, among other things. I am a final year **Business Analytics and Finance** student at **Bayes Business School**, bridging the gap between the mathematical rigour of a **Theoretical Physics** foundation from **Imperial College London** and advanced predictive modelling.
 
 <a href="https://hitscounter.dev/history?url=https://martinhe.co.uk"><img alt="Hits" src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fmartinhe.co.uk&label=Hits&icon=github&color=%23198754&tz=Europe%2FLondon"></a>
 
@@ -43,7 +43,7 @@ I am a second-year **Business Analytics and Finance** student at **Bayes Busines
 ### 🍱 Beyond the Code
 * 🎹 **Musician:** I enjoy playing the piano, as well as [composing](https://martinhe.co.uk/music), transcribing, and organising events. I possess perfect (absolute) pitch which might be my biggest flex, and am also quite good at improv.
 * 🚴 **Not Just Academics:** I'm into long-distance cycling, running, and hitting the gym. Also basketball
-* 🌍 **Polyglot:** I’m a native English speaker, advanced in French (C1) and Chinese (HSK 5), and currently learning Japanese (N3), Italian (B1), Spanish (A2), Norwegian (A1), Dutch (A1), Latin (> GCSE), and Ancient Greek (> GCSE). My current focus, however, is on Italian, and Japanese, with the target of attaining fluency in Italian by the end of 2026 (and Japanese by 2028). I plan on starting Slovak soon, taking the HSK 5 and 6 by 2028, with Portuguese, German, Arabic, and Russian on the back-burner (in that order). [See more](https://community-courses.memrise.com/user/martin.he543/).
+* 🌍 **Polyglot:** I’m a native English speaker, advanced in French (C1) and Chinese (HSK 5), and currently learning Japanese (N3), Italian (B1), Spanish (A2), Norwegian (A1), Dutch (A1), Latin (> GCSE), and Ancient Greek (> GCSE). My current focus, however, is on Italian, and Japanese, with the target of attaining fluency in Italian by the end of 2026 (and Japanese by 2028). I plan on starting Slovak soon, taking the HSK 5 and 6 by 2028, with Portuguese, German, Arabic, and Russian on the back-burner (in that order). [See more](https://community-courses.memrise.com/user/martin.he543/). I now work at [Memrise](https://memrise.com) as well!
 
 ---
 

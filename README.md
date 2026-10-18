@@ -23,19 +23,19 @@ I am a final year **Business Analytics and Finance** student at **Bayes Business
 
 ---
 
-
-
 ### 🚀 A [Supercut](https://www.youtube.com/watch?v=xguIYNjYU1A)
-* **NLP & Semantic Search:** Integrated vector-based multimodal search engine using **BERT**, **FastAPI**, and **Docker** during my **Perforce Software** internship.
-* **Multi-modal AI:** Building a recommendation system for **Spotify** using **PyTorch** to process audio previews, lyrics, and album art via CNNs and Transformers. We are currently planning on commercialising this and indexing as much of the entire Spotify song database as possible (will be at [this website](https://spotify.martinhe.co.uk)).
+* **NLP & Semantic Search:** Integrated vector-based multimodal search engine using **BERT**, **FastAPI**, and **Docker** during my time at **Perforce Software**.
 * **FinTech & Trading:** Explored arbitrage, market-making, and market movement prediction during the **Optiver** ["Ready, Trader, Go" competition](https://github.com/martin-he543/optiver-ready-trader-go-2023); [predicted turnover rates, default risk, conducted market-basket analysis, sector-specific business conditions indices, customer segmentation on bank data](https://github.com/martin-he543/python-machine-learning/tree/main/!!PROJECTS); algorithmic portfolio management on six stocks during period of high volatility (2026 Iran-US War), [earning above market return](https://github.com/martin-he543/portfolio-management); won two competitions (with cash prizes) on fallout from Trump's 2025 tariffs, and predicting UK student engagement with FinTech and crypto products (e.g. remittances).
-* **Social Impact:** [Created and showcased](https://github.com/martin-he543/altruist) **Altruist**, the "Bloomberg Terminal for Charities," winning the **Innovate Hackathon** with a responsive React/Firebase architecture. Produced free, [open-source GCSE textbook](https://github.com/martin-he543/notes) that was distributed in a top-10 ranked UK grammar school (resulting in record GCSE results); as well as resources for learning [Classics](https://github.com/martin-he543/classics-cheat-sheets). Currently working on the [Textbook Project](https://martinhe.co.uk/textbook-project), a project to "end all projects".
-* **Personal Projects:** Sisyphus, a habit tracker, part of the broader Lyceum Vitae initiative.
+* **Multi-modal AI:** Building a recommendation system for **Spotify** using **PyTorch** to process audio previews, lyrics, and album art via CNNs and Transformers. We are currently planning on commercialising this and indexing as much of the entire Spotify song database as possible (will be at [this website](https://spotify.martinhe.co.uk)).
+* **Social Impact:** [Created and showcased](https://github.com/martin-he543/altruist) **Altruist**, the "Bloomberg Terminal for Charities," winning the **Innovate Hackathon** with a responsive React/Firebase architecture. Produced free, [open-source GCSE textbook](https://github.com/martin-he543/notes) that was distributed in a top-10 ranked UK grammar school (resulting in record GCSE results); as well as resources for learning [Classics](https://github.com/martin-he543/classics-cheat-sheets). Currently working on the [Textbook Project](https://martinhe.co.uk/textbook-project), a project to "end all projects". I am currently the President of [**City Optimise** society](https://city-optimise.martinhe.co.uk), operating off a £10,000 grant, which attempts to give students at leading London universities real-world experience through project-based learning, providing a forum for exchange of ideas through networking events, fireside chats, guest lectures, and panels. We plan on hosting hackathons jointly with [Data Science & AI Society](https://www.instagram.com/citydsaisociety/).
+* **Personal Projects:** *Sisyphus:* a habit tracker, part of the broader Lyceum Vitae initiative. *Tetato:* increasing fairness for farmers and consumers, severing the stranglehold that the supermarket cartel has over the UK. *Stealth Start-ups:* working in various capacities, including founding roles, in areas as diverse as biotech, ed-tech, and manufacturing.
 
 ### 🛠 Tech Stack
+NOTE: Please refer to my LinkedIn [skills section](https://www.linkedin.com/in/martin-he543/details/skills/) for a more up-to-date assessment.
+Last updated: August 2025.
 * **Languages:** Python (PyTorch, TensorFlow, Scikit-Learn, Pandas), R, SQL (PostgreSQL, MongoDB), JavaScript (React, TypeScript), Rust. Kotlin, Swift, and Java are in the pipelines.
 * I am currently planning on learning (or improving): C++, Go, Julia, Lean, C#, Kotlin, Swift, Scala, MongoDB.
-* **Tools:** Docker, Git, Power BI, Tableau, $\LaTeX$, EViews, FastAPI, VSCode, GitHub, Jekyll.
+* **Tools:** Docker, Git, Power BI, Tableau, $\LaTeX$, FastAPI, VSCode, GitHub, EViews, Jekyll.
 
 ### 🏆 Achievements
 * **Finished 2nd out of approx. 100**, in Dare Global Innovation Labs, hosted in Moorgate in October 2026. Dare Global are a OTC Commodities Quant firm.

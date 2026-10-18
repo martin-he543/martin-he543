@@ -25,6 +25,7 @@ I am a final year **Business Analytics and Finance** student at **Bayes Business
 
 ### 🚀 A [Supercut](https://www.youtube.com/watch?v=xguIYNjYU1A)
 **NOTE:** For more information and projects, visit my [dedicated Projects section](https://martinhe.co.uk/projects).
+Last updated: October 2026.
 * **NLP & Semantic Search:** Integrated vector-based multimodal search engine using **BERT**, **FastAPI**, and **Docker** during my time at **Perforce Software**. This took place over two consecutive multi-month periods in 2025 and 2026.
 * **FinTech & Trading:** Explored arbitrage, market-making, and market movement prediction during the **Optiver** ["Ready, Trader, Go" competition](https://github.com/martin-he543/optiver-ready-trader-go-2023); [predicted turnover rates, default risk, conducted market-basket analysis, sector-specific business conditions indices, customer segmentation on bank data](https://github.com/martin-he543/python-machine-learning/tree/main/!!PROJECTS); algorithmic portfolio management on six stocks during period of high volatility (2026 Iran-US War), [earning above market return](https://github.com/martin-he543/portfolio-management); won two competitions (with cash prizes) on fallout from Trump's 2025 tariffs, and predicting UK student engagement with FinTech and crypto products (e.g. remittances).
 * **Multi-modal AI:** Building a recommendation system for **Spotify** using **PyTorch** to process audio previews, lyrics, and album art via CNNs and Transformers. We are currently planning on commercialising this and indexing as much of the entire Spotify song database as possible (will be at [this website](https://spotify.martinhe.co.uk)).
@@ -39,12 +40,14 @@ Last updated: August 2025.
 * **Tools:** Docker, Git, Power BI, Tableau, $\LaTeX$, FastAPI, VSCode, GitHub, EViews, Jekyll.
 
 ### 🏆 Achievements
+Last updated: October 2026.
 * **Finished 2nd out of approx. 100**, in Dare Global Innovation Labs, hosted in Moorgate in October 2026. Dare Global are a OTC Commodities Quant firm.
 * **Winner**, Bayes Data Olympics 2025, and in 2026. 2026 Entrepeneurial Hackathon with Deloitte.
 * **Bayes Academic Scholarship** (awarded to the top 10%). On the Dean's list twice (2025, 2026), including at the Undergraduate Awards for top of my degree cluster.
 * **Creator of Royana Font**, which has reached **10,000+ downloads** and is used globally in commercial packaging and books.
 
 ### 🍱 Beyond the Code
+Last updated: October 2026.
 * 🎹 **Musician:** I enjoy playing the piano, as well as [composing](https://martinhe.co.uk/music), transcribing, and organising events. I possess perfect (absolute) pitch which might be my biggest flex, and am also quite good at improv.
 * 🚴 **Non-Nerdy Sh*t:** I'm into long-distance cycling, running, and hitting the gym. Also basketball. I relearnt to swim in Poland, and have been swimming quasi-daily since.
 * 🌍 **Polyglot:** I’m a native English speaker, advanced in French (C1) and Chinese (HSK 5), and currently learning Japanese (N3), Italian (B1), Spanish (A2), Norwegian (A1), Dutch (A1), Latin (> GCSE), and Ancient Greek (> GCSE). My current focus, however, is on Italian, and Japanese, with the target of attaining fluency in Italian by the end of 2026 (and Japanese by 2028). I plan on starting Slovak soon, taking the HSK 5 and 6 by 2028, with Portuguese, German, Arabic, and Russian on the back-burner (in that order). [See more](https://community-courses.memrise.com/user/martin.he543/). I worked at [Memrise](https://memrise.com) as well, when it had about 10 total employees, for 80+ million registered users.

@@ -20,6 +20,7 @@
 I am a final year **Business Analytics and Finance** student at **Bayes Business School**, bridging the gap between the mathematical rigour of a **Theoretical Physics** foundation from **Imperial College London** and advanced predictive modelling. I worked full-time (over the Summer, 3 days a week otherwise) at [Memrise](https://memrise.com) as a Full-Stack Developer, Linguist, among other things. Also, I worked at Perforce Software over two consecutive summers integrating multimodal search.
 
 <a href="https://hitscounter.dev/history?url=https://martinhe.co.uk"><img alt="Hits" src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fmartinhe.co.uk&label=Hits&icon=github&color=%23198754&tz=Europe%2FLondon"></a>
+Last updated: October 2026. Hits counter added in May 2026.
 
 ---
 

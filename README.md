@@ -24,6 +24,7 @@ I am a final year **Business Analytics and Finance** student at **Bayes Business
 ---
 
 ### 🚀 A [Supercut](https://www.youtube.com/watch?v=xguIYNjYU1A)
+**NOTE:** For more information and projects, visit my [dedicated Projects section](https://martinhe.co.uk/projects).
 * **NLP & Semantic Search:** Integrated vector-based multimodal search engine using **BERT**, **FastAPI**, and **Docker** during my time at **Perforce Software**.
 * **FinTech & Trading:** Explored arbitrage, market-making, and market movement prediction during the **Optiver** ["Ready, Trader, Go" competition](https://github.com/martin-he543/optiver-ready-trader-go-2023); [predicted turnover rates, default risk, conducted market-basket analysis, sector-specific business conditions indices, customer segmentation on bank data](https://github.com/martin-he543/python-machine-learning/tree/main/!!PROJECTS); algorithmic portfolio management on six stocks during period of high volatility (2026 Iran-US War), [earning above market return](https://github.com/martin-he543/portfolio-management); won two competitions (with cash prizes) on fallout from Trump's 2025 tariffs, and predicting UK student engagement with FinTech and crypto products (e.g. remittances).
 * **Multi-modal AI:** Building a recommendation system for **Spotify** using **PyTorch** to process audio previews, lyrics, and album art via CNNs and Transformers. We are currently planning on commercialising this and indexing as much of the entire Spotify song database as possible (will be at [this website](https://spotify.martinhe.co.uk)).
@@ -31,7 +32,7 @@ I am a final year **Business Analytics and Finance** student at **Bayes Business
 * **Personal Projects:** *Sisyphus:* a habit tracker, part of the broader Lyceum Vitae initiative. *Tetato:* increasing fairness for farmers and consumers, severing the stranglehold that the supermarket cartel has over the UK. *Stealth Start-ups:* working in various capacities, including founding roles, in areas as diverse as biotech, ed-tech, and manufacturing.
 
 ### 🛠 Tech Stack
-NOTE: Please refer to my LinkedIn [skills section](https://www.linkedin.com/in/martin-he543/details/skills/) for a more up-to-date assessment.
+**NOTE:** Please refer to my LinkedIn [skills section](https://www.linkedin.com/in/martin-he543/details/skills/) for a more up-to-date assessment.
 Last updated: August 2025.
 * **Languages:** Python (PyTorch, TensorFlow, Scikit-Learn, Pandas), R, SQL (PostgreSQL, MongoDB), JavaScript (React, TypeScript), Rust. Kotlin, Swift, and Java are in the pipelines.
 * I am currently planning on learning (or improving): C++, Go, Julia, Lean, C#, Kotlin, Swift, Scala, MongoDB.

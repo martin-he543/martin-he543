@@ -40,10 +40,10 @@ Last updated: August 2025.
 ### 🏆 Achievements
 * **Finished 2nd out of approx. 100**, in Dare Global Innovation Labs, hosted in Moorgate in October 2026. Dare Global are a OTC Commodities Quant firm.
 * **Winner**, Bayes Data Olympics 2025, and in 2026. 2026 Entrepeneurial Hackathon with Deloitte.
-* **Bayes Academic Scholarship** (awarded to the top 10%).
+* **Bayes Academic Scholarship** (awarded to the top 10%). On the Dean's list twice (2025, 2026), including at the Undergraduate Awards for top of my degree cluster.
 * **Creator of Royana Font**, which has reached **10,000+ downloads** and is used globally in commercial packaging and books.
 
 ### 🍱 Beyond the Code
 * 🎹 **Musician:** I enjoy playing the piano, as well as [composing](https://martinhe.co.uk/music), transcribing, and organising events. I possess perfect (absolute) pitch which might be my biggest flex, and am also quite good at improv.
-* 🚴 **Not Just Academics:** I'm into long-distance cycling, running, and hitting the gym. Also basketball
+* 🚴 **Non-Nerdy Sh*t:** I'm into long-distance cycling, running, and hitting the gym. Also basketball. I relearnt to swim in Poland, and have been swimming quasi-daily since.
 * 🌍 **Polyglot:** I’m a native English speaker, advanced in French (C1) and Chinese (HSK 5), and currently learning Japanese (N3), Italian (B1), Spanish (A2), Norwegian (A1), Dutch (A1), Latin (> GCSE), and Ancient Greek (> GCSE). My current focus, however, is on Italian, and Japanese, with the target of attaining fluency in Italian by the end of 2026 (and Japanese by 2028). I plan on starting Slovak soon, taking the HSK 5 and 6 by 2028, with Portuguese, German, Arabic, and Russian on the back-burner (in that order). [See more](https://community-courses.memrise.com/user/martin.he543/). I now work at [Memrise](https://memrise.com) as well!

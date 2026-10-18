@@ -38,6 +38,7 @@ I am a final year **Business Analytics and Finance** student at **Bayes Business
 * **Tools:** Docker, Git, Power BI, Tableau, $\LaTeX$, EViews, FastAPI, VSCode, GitHub, Jekyll.
 
 ### 🏆 Achievements
+* **Finished 2nd out of approx. 100**, in Dare Global Innovation Labs, hosted in Moorgate in October 2026. Dare Global are a OTC Commodities Quant firm.
 * **Winner**, Bayes Data Olympics 2025, and in 2026. 2026 Entrepeneurial Hackathon with Deloitte.
 * **Bayes Academic Scholarship** (awarded to the top 10%).
 * **Creator of Royana Font**, which has reached **10,000+ downloads** and is used globally in commercial packaging and books.
